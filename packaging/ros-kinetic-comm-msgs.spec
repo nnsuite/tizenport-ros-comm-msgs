@@ -1,5 +1,5 @@
 Name:		ros-kinetic-comm-msgs
-Version:	1.9.11
+Version:	1.11.2
 Release:	0
 Summary:	ROS comm-msgs package
 License:	BSD
